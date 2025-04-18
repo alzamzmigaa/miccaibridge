@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Long Haul
+title: Submission
 ---
 
 <div class="post" style="text-align: justify;">
@@ -17,18 +17,22 @@ Do you wonder how we can rigorously evaluate and effectively regulate rapidly em
     How can we regulate what we don’t yet know how to evaluate?
   </div><br>
 
-  BRIDGE offers a collaborative forum for researchers, clinicians, and regulators to explore how we can better align technical development with robust evaluation methods and regulatory standards. We welcome contributions that address theoretical, empirical, or conceptual aspects of regulatory science.<br><br>
-  <h4 class="pageTitle" style="color: #2c3e50;"> Topics of Interest: </h4>
+  BRIDGE offers a collaborative forum for researchers, clinicians, and regulators to explore how we can better align technical development with robust evaluation methods and regulatory standards..<br><br>
+
+  We invite submissions from individuals across the globe, including those in academia, industry, and regulatory bodies to discuss current challenges or propose new methods for evaluating and regulating AI medical technologies. Diverse perspectives are necessary to addressing the complex challenges at the intersection of AI, evaluation, and regulation.
+
+  <h4 class="pageTitle" style="color: #2c3e50;"> Topics of Interest include, but not limited to: </h4>
   <ul>
-    <li>Proposals for robust evaluation frameworks or regulatory frameworks.</li>
+    <li>Robust evaluation methods or regulatory frameworks.</li>
     <li>Papers highlighting the disconnect between AI development, evaluation metrics, and regulatory science.</li>
     <li>Theoretical or empirical studies identifying gaps between current evaluation practices for medical AI and regulatory requirements.</li>
     <li>Novel algorithmic approaches designed with regulatory alignment in mind.</li>
     <li>Perspective or position papers addressing open problems, negative results, or flawed practices in AI development that affect regulatory alignment and patient safety.</li>
-    <li>Evaluation and regulation of cutting-edge technologies like generative AI, LLMs, and autonomous systems, particularly in clinical or high-stakes environments.</li>
+    <li>Evaluation and regulation of cutting-edge technologies such as  generative AI, LLMs, and autonomous systems, particularly in clinical or high-stakes environments.</li>
     <li>Post-market monitoring and regulation: ensuring AI systems remain safe and effective after deployment.</li>
     <li>Empirical studies assessing AI readiness for clinical deployment.</li>
     <li>Underexplored regulatory questions with direct implications for patient safety.</li>
+    <li> Regulatory science across countries: highlighting international differences and commonalities to inform global alignment efforts.</li>
   </ul><br>
 
   We welcome any submission at the intersection of medical AI evaluation and regulatory science.<br><br>
@@ -44,12 +48,13 @@ Do you wonder how we can rigorously evaluate and effectively regulate rapidly em
 
   <h4 class="pageTitle" style="color: #2c3e50;">  Important Dates (Anywhere on Earth): </h4>
   <ul>
-    <li><strong>Full Paper Deadline:</strong> June 25, 2025</li>
+    <li><strong>Paper Deadline:</strong> June 25, 2025</li>
     <li><strong>Notification of Acceptance:</strong> July 16, 2025</li>
-    <li><strong>Camera-ready Submission:</strong> July 30, 2025</li>
-    <li><strong>Workshop Date:</strong> To Be Confirmed</li>
+    <li><strong>Workshop Date:</strong> TBA</li>
   </ul><br>
 
   <h4 class="pageTitle" style="color: #2c3e50;">  Questions? </h4>
-  Reach out to us at: <a href="mailto:bridgeregsci@gmail.com">BRIDGERegSci@gmail.com</a><br>
+  Reach out to us at: <a href=mailto:bridgeregsci@gmail.com>BRIDGERegSci@gmail.com</a><br>
 </div>
+
+<p>Made by BRIDGE workshop Team</p>
