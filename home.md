@@ -14,3 +14,4 @@ title: home
     This workshop aims to introduce Al regulatory science to the MICCAI community and provide a platform for researchers, clinicians, and regulators to discuss algorithmic, technical, and regulatory challenges and collaboratively develop rigorous solutions for the safe and effective deployment of Al in healthcare. In addition, this workshop will provide an educational platform to highlight the often-overlooked importance of regulatory science aspects and evaluation in AI research.
 
 </div>
+<p> </p>
