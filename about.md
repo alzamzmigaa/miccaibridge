@@ -75,6 +75,6 @@ title: About
 
 </div>
 
-<p>Made BRIDGE workshop team</p>
+<p>Made by BRIDGE workshop team</p>
 
 
